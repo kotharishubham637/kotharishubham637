@@ -29,7 +29,6 @@ I'm driven by the challenge of building systems that scale, automating repetitiv
 ### 🗄️ Databases & Monitoring
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,mysql" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
